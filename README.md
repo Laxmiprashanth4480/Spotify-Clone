@@ -1,12 +1,72 @@
-# React + Vite
+# 🎵 Spotify Clone (Frontend Only)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive frontend clone of the Spotify web app built using **React.js** and **Tailwind CSS**. This project mimics the core UI of Spotify, including a sidebar, player controls, and responsive layouts.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🎧 Clean, Spotify-like layout and design
+- ⚡ Built with **ReactJS** (using functional components and hooks)
+- 💨 Styled using **Tailwind CSS**
+- 📱 Fully responsive across devices
+- 🎵 Dummy playlists and album previews (static for frontend only)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **React.js**
+- **Tailwind CSS**
+- **Vite** 
+- **React Icons**
+- **React Router**
+
+---
+
+## Folder Structure
+
+spotify-clone/
+│
+├── public/
+│ └── vite.svg
+├── src/
+│ ├── assets/
+│ ├── components/
+│ │ ├── AlbumItem.jsx
+│ │ ├── Display.jsx
+│ │ ├── DisplayAlbum.jsx
+│ │ ├── DisplayHome.jsx
+│ │ ├── Navbar.jsx
+│ │ ├── Player.jsx
+│ │ ├── PlayerContext.jsx
+│ │ ├── Sidebar.jsx
+│ │ └── SongsItem.jsx
+│ ├── App.css
+│ ├── App.jsx
+│ ├── index.css
+│ └── main.jsx
+├── tailwind.config.js
+└── package.json
+
+
+## Notes
+This is a frontend-only project — no backend or real Spotify API integration.
+
+You can extend this by:
+
+-Adding user authentication
+
+-Integrating Spotify Web API
+
+-Making it a full-stack app
+
+## 📄 License
+This project is open source and available under the MIT License.
+
+## 🙋‍♂️ Author
+Y.Laxmi Prashanth
+
+
+
+
