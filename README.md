@@ -61,10 +61,10 @@ You can extend this by:
 
 -Making it a full-stack app
 
-## 📄 License
+## 📄License
 This project is open source and available under the MIT License.
 
-## 🙋‍♂️ Author
+## 🙋‍♂️Author
 Y.Laxmi Prashanth
 
 
