@@ -25,7 +25,7 @@ A responsive frontend clone of the Spotify web app built using **React.js** and 
 ---
 
 ## Folder Structure
-
+```
 spotify-clone/
 │
 ├── public/
@@ -48,7 +48,7 @@ spotify-clone/
 │ └── main.jsx
 ├── tailwind.config.js
 └── package.json
-
+```
 
 ## Notes
 This is a frontend-only project — no backend or real Spotify API integration.
